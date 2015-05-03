@@ -1,6 +1,6 @@
 # g-Chart
 
-g-Chart is the PHP wrapper class which provides a flexible way to build chart. g-Chart is using Google Chart api to draw chart. This is actually working as wrapper of google chart api. With this g-Chart you can easily visualise yu data into your web application.
+g-Chart is the PHP wrapper class which provides a flexible way to build chart. g-Chart is using Google Chart api to draw chart. This is actually working as wrapper of google chart api. With this g-Chart you can easily visualise your data into your web application.
 
 Installation
 ============
@@ -64,5 +64,5 @@ echo $chart->pieChart($pieColumns, $pieRows, $pieOptions);
 
 ```
 
-Please [click here](https://www.google.com) for see the full chart list.
+Please [click here](http://sohelrana.me/gChart) for see the full chart list.
 
