@@ -2,6 +2,7 @@
     "name": "sohelrana820/g-chart",
     "description": "gChart",
     "homepage": "https://sohelrana.me",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sohel Rana",
